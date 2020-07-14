@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reacthook-tictactoe/static/css/main.34de6062.chunk.css",
-    "main.js": "/reacthook-tictactoe/static/js/main.7ea5297d.chunk.js",
-    "main.js.map": "/reacthook-tictactoe/static/js/main.7ea5297d.chunk.js.map",
+    "main.js": "/reacthook-tictactoe/static/js/main.95f08a4e.chunk.js",
+    "main.js.map": "/reacthook-tictactoe/static/js/main.95f08a4e.chunk.js.map",
     "runtime-main.js": "/reacthook-tictactoe/static/js/runtime-main.f12dbe01.js",
     "runtime-main.js.map": "/reacthook-tictactoe/static/js/runtime-main.f12dbe01.js.map",
     "static/js/2.71c1c761.chunk.js": "/reacthook-tictactoe/static/js/2.71c1c761.chunk.js",
     "static/js/2.71c1c761.chunk.js.map": "/reacthook-tictactoe/static/js/2.71c1c761.chunk.js.map",
     "index.html": "/reacthook-tictactoe/index.html",
-    "precache-manifest.b88f510f25419734f745324ebc494bf9.js": "/reacthook-tictactoe/precache-manifest.b88f510f25419734f745324ebc494bf9.js",
+    "precache-manifest.f40fa9aee1d3747949b778d14b7a80a8.js": "/reacthook-tictactoe/precache-manifest.f40fa9aee1d3747949b778d14b7a80a8.js",
     "service-worker.js": "/reacthook-tictactoe/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/reacthook-tictactoe/static/css/main.34de6062.chunk.css.map",
     "static/js/2.71c1c761.chunk.js.LICENSE.txt": "/reacthook-tictactoe/static/js/2.71c1c761.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f12dbe01.js",
     "static/js/2.71c1c761.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.7ea5297d.chunk.js"
+    "static/js/main.95f08a4e.chunk.js"
   ]
 }
