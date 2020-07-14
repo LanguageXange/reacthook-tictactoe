@@ -1,6 +1,7 @@
 
 View Live at https://languagexange.github.io/reacthook-tictactoe
 -------------------------------------
+npm run deploy to update changes
 
 ## Available Scripts
 
